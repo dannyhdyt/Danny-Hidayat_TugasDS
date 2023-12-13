@@ -1,4 +1,4 @@
-package com.javaprogram;
+package javaprogram;
 
 public class Hello_World {
 
